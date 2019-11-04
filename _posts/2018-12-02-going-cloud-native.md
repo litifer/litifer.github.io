@@ -5,10 +5,11 @@ author: chandan
 categories: [ cloud-native]
 image: assets/images/containers.jpg
 types: [post]
+published: true
 ---
 
-This post is summary of the learnings in the quest of understanding cloud-native applications. 
-Pivotal defines it as follows -- 
+This post is summary of the learnings in the quest of understanding cloud-native applications.
+Pivotal defines it as follows --
 Cloud-native is an approach to building and running applications that exploits the advantages of the cloud computing delivery model. Cloud-native is about how applications are created and deployed, not where.
 
 > Cloud-Native = (Microservices Right way + Continusous Delivery + DevOps Culture)
@@ -28,4 +29,3 @@ Benefits?? — Easy movement of applications, easy scaling.
 Waterfall model of software development is rigid, ships product at once, requires more time. Probable business loss. Develop software iteratively, embrace agile methodologies setting up continuous integration and continuous deployment pipeline.
 ##### 4. Recovery Time
 Recovery(from failures, restarts) time should be less. Choose containers instead of VMs. VM based infrastructure is slow and inefficient, long boot up time.
-

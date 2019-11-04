@@ -5,6 +5,7 @@ author: chandan
 categories: [ startup, engineer, hiring ]
 image: assets/images/engineer-hiring.jpg
 types: [post]
+published: false
 ---
 
 More or less all the established companies have a framework. More or less all the established companies have a framework.

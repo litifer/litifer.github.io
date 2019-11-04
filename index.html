@@ -50,7 +50,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
         <!-- <h4 class="font-weight-bold spanborder"><span>Posts</span></h4> -->
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %}
-{% if post.types contains "post" %}
+{% if post.published == true %}
             {% include main-loop-card.html %}
 {% endif %}
 

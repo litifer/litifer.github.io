@@ -5,9 +5,10 @@ author: chandan
 categories: [ devops, declrative,configuration]
 image: assets/images/declarative-config.jpeg
 types: [post]
+published: true
 ---
 
-Wikipedia Defines Configuration(config) files as  -- 
+Wikipedia Defines Configuration(config) files as  --
 "_files used to configure the parameters and initial settings for some computer programs. They are used for user applications, server processes and operating system settings._"
 
 

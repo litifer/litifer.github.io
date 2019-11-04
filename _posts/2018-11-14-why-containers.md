@@ -5,6 +5,7 @@ author: chandan
 categories: [ containers, docker]
 image: assets/images/containers.jpg
 types: [post]
+published: true
 ---
 
 With the advent of virtualization we are shifting towards immutable deployments, containerization has certainly made the the realization of immutable deployments more concrete.

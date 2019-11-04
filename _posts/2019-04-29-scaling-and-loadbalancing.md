@@ -5,6 +5,7 @@ author: chandan
 categories: [ loadbalancers, horizontal scaling, vertical scaling]
 image: assets/images/scaling-4.png
 types: [post]
+published: true
 ---
 Proper understanding of scaling principles is of utmost importance for designing large scale systems. There already is a vast amount of resources on scaling and load balancing, available on the web in the form of text and video, and this one is merely a compilation of a few of those.
 
