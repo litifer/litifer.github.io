@@ -5,4 +5,4 @@ image: assets/images/kube.png
 tags: [home]
 ---
 
-I am Chandan. I am an engineer at Litifer Technologies. My interests lies in Distributed Systems, Kubernetes, cloud, security, algorithms, data structures.
+I am Chandan. I wear multiple hats at Litifer Technologies. During the day writing code, managing infrastructure, working on analytics, strategizing content, and evangelizing our product. My interests lies in Distributed Systems, Kubernetes, cloud, security, algorithms, data structures.
