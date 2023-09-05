@@ -3,10 +3,11 @@ layout: post
 title:  "Rahasia Kesuksesan Bintang Sepak Bola: Strategi Latihan yang Membuat Mereka Mendominasi Lapangan!"
 author: chandan
 categories: [ football, sepakbola, strategy ]
-image: https://github.com/litifer/litifer.github.io/assets/10615264/3cdaa8b2-27db-4616-9e0f-976c507a151f
+image: https://github.com/litifer/litifer.github.io/assets/10615264/1cdfdd5f-bfee-488f-81d0-d99859d9b11d)
 types: [post]
 published: true
 ---
+
 
 ## Pendahuluan
 Saat kita menonton pertandingan sepak bola dan menyaksikan keterampilan luar biasa para pemain di lapangan, kita sering bertanya-tanya apa yang membuat atlet-atlet ini begitu luar biasa. Kebenarannya adalah, di balik kesuksesan mereka terletak rutinitas latihan yang ketat dan strategis yang mendorong mereka untuk mendominasi lapangan. Dalam artikel ini, kita akan menjelajahi rahasia kesuksesan bintang sepak bola dengan mengeksplorasi strategi-strategi latihan yang membedakan mereka dari yang lain.
@@ -32,8 +33,11 @@ Sepak bola bukan hanya pertempuran fisik, tapi juga pertempuran mental. Para pem
 ## Visualisasi dan Fokus (H2)
 Bintang-bintang sepak bola menggunakan teknik visualisasi untuk secara mental merencanakan permainan dan membayangkan kesuksesan. Fokus dan rasa percaya diri yang ditingkatkan berdampak pada performa yang lebih baik.
 
+![ronaldo-balondor](https://github.com/litifer/litifer.github.io/assets/10615264/01a97480-0e7a-4d18-aacf-7b596c33ba60)
+
+
 ## Pemulihan: Pahlawan Tak Terdengar
-Istirahat yang Cukup dan Tidur (H2)
+### Istirahat yang Cukup dan Tidur (H2)
 Kesuksesan di lapangan tidak mungkin tercapai tanpa pemulihan yang tepat. Tidur memungkinkan tubuh untuk sembuh, meregenerasi, dan mempersiapkan diri untuk tuntutan latihan dan pertandingan.
 
 ## Nutrisi dan Hidrasi (H2)
