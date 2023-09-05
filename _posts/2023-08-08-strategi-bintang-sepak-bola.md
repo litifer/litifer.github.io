@@ -3,7 +3,7 @@ layout: post
 title:  "Rahasia Kesuksesan Bintang Sepak Bola: Strategi Latihan yang Membuat Mereka Mendominasi Lapangan!"
 author: chandan
 categories: [ football, sepakbola, strategy ]
-image: https://github.com/litifer/litifer.github.io/assets/10615264/1cdfdd5f-bfee-488f-81d0-d99859d9b11d)
+image: https://github.com/litifer/litifer.github.io/assets/10615264/1cdfdd5f-bfee-488f-81d0-d99859d9b11d
 types: [post]
 published: true
 ---
